@@ -1,6 +1,4 @@
-aaa
-<<<<<<< HEAD
-bbbddd
-=======
+aaa<<<<<<< HEAD
+b=======
 bbbccc
 >>>>>>> feature1
